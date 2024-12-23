@@ -1,8 +1,6 @@
 ## Hi there 👋
 i am a 42 student
-73dd1dcb7890a4dec43b577a775fc732f7e2912e
 <!--
-**Dracorex2/Dracorex2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
